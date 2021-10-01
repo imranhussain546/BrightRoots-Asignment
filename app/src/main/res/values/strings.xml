@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BrightRoots Assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="name_empty_error">Please enter name</string>
+    <string name="roll_empty_error">Please enter roll</string>
+    <string name="stream_empty_error">Please choose stream</string>
+</resources>
